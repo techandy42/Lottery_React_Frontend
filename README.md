@@ -82,3 +82,7 @@ npm install
 - refer to [Solidity Tutorial no.113](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/learn/lecture/30032924#notes)
 
 ---
+
+Note:
+
+- This project is based on a tutorial from a Udemy course named [Getting Started with Web3 Development](https://www.udemy.com/course/getting-started-with-ethereum-solidity-development/), which I highly recommend to anyone who is looking to learn more about Solidity.
